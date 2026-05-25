@@ -1,4 +1,5 @@
 # simuladordicom
+Diego Alejandro Loaiza Arroyave
 Simulador de servidor PACS para indexación de metadatos y procesamiento con OpenCV.
 ## 🚀 1. Descripción del Proyecto
 
